@@ -1,0 +1,18 @@
+Ana Ruiz
+Estudiante avanzada de Maestría en Explotación de Datos — UBA
+
+Sobre mí
+Me enfoco en aplicaciones de datos a texto: chunking de documentos, índices vectoriales y orquestación de prompts para asistentes con contexto externo.
+
+Experiencia laboral
+- 2023–presente: Data Analyst part-time en RetailAnalytics. Dashboards y análisis ad-hoc.
+- 2021–2023: Tutora de Algoritmos y Estructuras de Datos en la universidad.
+
+Cursos relevantes
+NLP, Aprendizaje Profundo, Bases de datos vectoriales.
+
+Stack
+Python, pandas, SQL, Pinecone (básico), APIs de LLM, notebooks Jupyter.
+
+Disponibilidad
+Proyectos de equipo en horarios flexibles; preferencia por trabajo remoto.

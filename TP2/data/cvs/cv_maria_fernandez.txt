@@ -1,0 +1,18 @@
+María Fernández López
+Ingeniera en Sistemas — Universidad de Buenos Aires (UBA)
+
+Resumen profesional
+Desarrolladora backend con 5 años de experiencia en Python y APIs REST. Interés en procesamiento de lenguaje natural y sistemas de recuperación de información.
+
+Experiencia
+- 2021–presente: Software Engineer en TechFlow SA. Diseño de microservicios con FastAPI, PostgreSQL y Redis.
+- 2019–2021: Junior Developer en DataSoft. Mantenimiento de pipelines ETL en Python.
+
+Educación
+- Ingeniería en Sistemas, FIUBA, UBA (2014–2020).
+
+Habilidades técnicas
+Python, FastAPI, Docker, Git, SQL, fundamentos de ML y NLP.
+
+Idiomas
+Español (nativo), Inglés (B2).

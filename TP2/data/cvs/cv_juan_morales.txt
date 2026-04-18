@@ -1,0 +1,18 @@
+Juan Morales
+Licenciado en Ciencias de la Computación — UBA
+
+Perfil
+Investigador y desarrollador orientado a NLP. Experiencia en modelos de embeddings, clasificación de texto y evaluación con benchmarks tipo MTEB.
+
+Trayectoria
+- Becario CONICET en grupo de PLN (2022–presente). Proyectos sobre recuperación semántica y RAG.
+- Práctica profesional en laboratorio universitario: anotación de corpus y fine-tuning de modelos transformers.
+
+Formación académica
+- Licenciatura en Ciencias de la Computación, DC, UBA (2017–2023).
+
+Competencias
+PyTorch, Hugging Face Transformers, experimentación reproducible, Python avanzado.
+
+Publicaciones y proyectos
+Participación en hackathons de NLP; código abierto en GitHub sobre demos de sentence similarity.
