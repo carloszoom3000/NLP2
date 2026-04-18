@@ -1,0 +1,12 @@
+**Instrucciones.**
+
+Desde la carpeta del proyecto, crea el entorno virtual python3 -m venv .venv
+Activa el entorno con source .venv/bin/activate
+Instala los requerimientos pip install -r requirements.txt
+Copia .env.example a .env con cp .env.example .env
+En .env ingresa los API key de Pinecone y de Groq
+Realiza la ingesta python3 run_ingest.py
+Realiza un par de preguntas:
+python3 run_chat.py "¿Qué sabe hacer en Python?"
+python3 run_chat.py "¿Qué experiencia en NLP tiene María García?"
+python3 run_chat.py "Compará al alumno y a María García para un rol de Data Scientist"

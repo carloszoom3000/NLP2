@@ -1,0 +1,17 @@
+Carlos Villalobos (Alumno)
+
+Perfil
+- Estudiante de Maestría con foco en Procesamiento de Lenguaje Natural (NLP) y Machine Learning.
+- Interés en RAG, embeddings, recuperación semántica y evaluación de sistemas.
+
+Experiencia
+- Proyecto académico: construcción de un pipeline RAG con Pinecone (indexación) y un LLM para respuesta.
+- Experimentos con embeddings (SentenceTransformers), chunking y similitud coseno.
+
+Habilidades
+- Python, NLP (tokenización, embeddings), Vector DB (Pinecone), prompt engineering.
+- Herramientas: Git, Jupyter, Linux, VS Code/Cursor.
+
+Educación
+- Maestría (en curso): temas avanzados de IA y NLP.
+

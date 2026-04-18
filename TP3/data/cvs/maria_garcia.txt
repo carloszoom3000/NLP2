@@ -1,0 +1,17 @@
+María García
+
+Perfil
+- Data Scientist con experiencia en NLP aplicado a productos (clasificación, extracción de entidades, búsqueda semántica).
+
+Experiencia
+- NLP Engineer: desarrollo de modelos de clasificación de textos y extracción de entidades para atención al cliente.
+- Implementación de búsqueda semántica con embeddings, métricas de similitud (coseno) y re-ranking.
+- Evaluación: métricas offline (precision/recall) y experimentos A/B.
+
+Habilidades
+- Python, PyTorch, SentenceTransformers.
+- MLOps básico: tracking de experimentos, packaging, despliegue.
+
+Educación
+- Ingeniería (finalizada) + cursos de especialización en Machine Learning.
+
